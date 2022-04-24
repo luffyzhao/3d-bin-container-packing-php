@@ -1,0 +1,23 @@
+{
+    "name": "luffyzhao/3d-bin-container-packing",
+    "description": "三维箱式集装箱包装",
+    "autoload": {
+        "psr-4": {
+            "BinContainerPacking\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "luffyzhao",
+            "email": "luffyzhao@vip.126.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "ext-simplexml": "*",
+        "ext-json": "*",
+        "ext-libxml": "*",
+        "ext-bcmath": "*"
+    },
+    "minimum-stability": "dev"
+}
