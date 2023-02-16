@@ -1,9 +1,3 @@
-# for com.github.skjolber.3d-bin-container-packing
+### 三维切箱 
 
-```xml
-<dependency>
-    <groupId>com.github.skjolber.3d-bin-container-packing</groupId>
-    <artifactId>core</artifactId>
-    <version>1.2.14</version>
-</dependency>
-```
+- for https://github.com/latuconsinafr/3d-bin-packager
